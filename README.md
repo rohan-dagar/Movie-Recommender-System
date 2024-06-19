@@ -10,7 +10,6 @@ This project focuses on developing a content-based movie recommendation system u
 3. [Preprocessing](#preprocessing)
 4. [Recommendation System](#recommendation-system)
 5. [Dependencies](#dependencies)
-6. [Installation](#installation)
 
 
 ## Introduction
@@ -45,9 +44,3 @@ The project requires the following Python libraries:
 - pandas
 - numpy
 - ast
-
-## Installation
-
-To install the required libraries, use the following command:
-```bash
-pip install pandas numpy
