@@ -44,3 +44,5 @@ The project requires the following Python libraries:
 - pandas
 - numpy
 - ast
+- sklearn
+- nltk
